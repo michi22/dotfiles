@@ -3,6 +3,9 @@ alias cot='open -g -a CotEditor' # ターミナルからCotEditorを開く
 alias coda='open -g -a Coda' # ターミナルからCodaを開く
 alias safari='open -g -a safari' # ターミナルからSafariを開く
 alias console='open -a console' # ターミナルからコンソールを開く
+alias chrome='open -g -a "Google Chrome"'
+alias sublime='open -a "Sublime Text 2"'
+alias filemerge='open -a "FileMerge"'
 
 # for shortcut
 alias up='cd ..'
